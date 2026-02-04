@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\config\DatabaseConfig.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\service\impl\BookServiceImpl.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\repository\BookRepository.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\exception\BookNotFoundException.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\entity\BookEntity.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\controller\BookController.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\entity\BaseEntity.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\dto\BookRequest.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\exception\GlobalExceptionHandler.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\LibraryApplication.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\dto\BookResponse.java
+C:\Users\Korisnik\Documents\GitHub\library_backend\src\main\java\com\library\service\BookService.java
